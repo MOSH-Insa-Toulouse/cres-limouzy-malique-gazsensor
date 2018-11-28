@@ -23,7 +23,7 @@ Dans le cadre du cours "Microcontrolleurs et open-source hardware" de 5ème ann�
 Vous pouvez trouver les sources KiCad dans le dossier [ShieldArduinoKiCad](/ShieldArduinoKicad/).
 Vous trouverez ci-dessous une vue d'ensemble de la schématique, du routage et du rendu 3D de notre shield.
 ![Schématique du shield Arduino](tree/master/images/schematique.png)
-![Routage du shield Arduino - Face 1](images/routageA.png)
+![Routage du shield Arduino - Face 1](/images/routageA.png)
 ![Routage du shield Arduino - Face 2](images/routageB.png)
 ![Rendu 3D du shield Arduino](images/3D.png)
 
