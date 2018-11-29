@@ -22,10 +22,10 @@ Dans le cadre du cours "Microcontrolleurs et open-source hardware" de 5ème ann�
 # Création d'un shield pour Arduino Uno
 Vous pouvez trouver les sources KiCad dans le dossier [ShieldArduinoKiCad](/ShieldArduinoKicad/).
 Vous trouverez ci-dessous une vue d'ensemble de la schématique, du routage et du rendu 3D de notre shield.
-![Schématique du shield Arduino](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/schematique.png)
-![Routage du shield Arduino - Face 1](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/routageA.png)
-![Routage du shield Arduino - Face 2](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/routageB.png)
-![Rendu 3D du shield Arduino](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/3D.png)
+![Schématique du shield Arduino](https://i.imgur.com/loexOIT.png)
+![Routage du shield Arduino - Face 1](https://i.imgur.com/1Du8ad6.png)
+![Routage du shield Arduino - Face 2](https://i.imgur.com/NUFL8C6.png)
+![Rendu 3D du shield Arduino](https://i.imgur.com/h4zXJdw.png)
 
 # Développement du software sur Arduino Uno
 Le code est distribué dans le dossier [arduino](/arduino/).
@@ -37,8 +37,8 @@ Concrétement, il implémente :
 
 # Développement d'une interface graphique de gestion de données grâce à node-red
 Node-red est un outil graphique permettant de lier plusieurs services et APIs ensemble de manière assez facile. Ainsi, nous avons créé une interface permettant d'afficher les informations issues du capteur de gaz sous forme de gauge de danger. De plus, nous avons la possibilité d'allumer, d'éteindre ou de faire clignoter la LED sur notre Arduino, à distance grâce à node-red ou l'interface theThingsNetwork. Vous trouverez ci-dessous l'interface node-red créé pour le projet ainsi que le rendu graphique final.
-![Interface de programmation de node-red](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/node-red-interface.png)
-![Rendu graphique final](https://github.com/MOSH-Insa-Toulouse/cres-limouzy-malique-gazsensor/blob/master/images/node-red-ui.png)
+![Interface de programmation de node-red](https://i.imgur.com/brm5BxF.png)
+![Rendu graphique final](https://i.imgur.com/hErL446.png)
 
 # FAQ software
 ## La connexion à TheThingsNetwork ne fonctionne pas
